@@ -14,3 +14,10 @@ After that you want to make another command one that works on Alta dashboard so 
 Then once in command runner you make the command eg set day
 Now set that command to type time set day so every time you say set day it types that command 
 Now just start it by saying start then say set day and it will type it into the command runner for you 
+
+
+This is only the trial version for the full version with better software dm me in discord 
+F4tal#5920. 
+
+Made by F4tal 
+Found by Jrod1o20 aka mommy1 on att 
